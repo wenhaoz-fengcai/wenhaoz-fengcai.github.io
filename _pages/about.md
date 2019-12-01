@@ -16,6 +16,6 @@ Prior to joining UCLA, I received my MSc in Computer Science and another MSc in 
 News
 ======
 * [10/2019] One conference paper accepted at [IEEE BigData 2019](http://bigdataieee.org/BigData2019/)
-* [07/2019 ~ 09/2019] Research intern at Alibaba Group, Hangzhou, China (advisor: [Keping Yang](https://www.researchgate.net/scientific-contributions/2142923765_Keping_Yang))
+* [07/2019 ~ 09/2019] Research intern at Alibaba Group, Hangzhou, China (advised by [Keping Yang](https://www.researchgate.net/scientific-contributions/2142923765_Keping_Yang))
 * [07/2019] One journal paper published at [JMIR mHealth and uHealth](https://mhealth.jmir.org/) （IF： 4.3）
 * [05/2019] Passed the Written Qualifying Exam!
