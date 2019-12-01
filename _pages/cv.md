@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download CV](http://wenhaoz.io/files/Resume.pdf)
+[Download CV](https://wenhaoz.io/files/Resume.pdf)
 
 Education
 ======
