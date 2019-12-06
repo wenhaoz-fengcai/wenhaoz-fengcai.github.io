@@ -14,8 +14,8 @@ redirect_from:
 Education
 ======
 * Ph.D in Computer Science, University of California, Los Angeles (currently enrolled)
-* M.S. in Computer Science, University of Southern California, 2015
-* M.S. in Electrical Engineering, University of Southern California, 2017
+* M.S. in Computer Science, University of Southern California, 2017
+* M.S. in Electrical Engineering, University of Southern California, 2015
 * B.S. in Electrical Engineering, Harbin Engineering University, 2013
 
 
