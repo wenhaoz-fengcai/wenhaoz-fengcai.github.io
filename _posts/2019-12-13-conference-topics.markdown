@@ -7,7 +7,7 @@ tags: [academic]
 toc: true
 publish: true
 ---
-IEEE BigData conference was just over this past Thursday. Do you wanna know what is going on currently in big data mining research area? the hot research topics/keywords that were discussed in the conference proceedings? Man, wouldn't it be better if I can **see** the hot research topics and keywords. Worry no more, this is where wordcloud can help you capture the info within seconds.
+IEEE BigData conference was just over this past Thursday. Do you want to know what is going on currently in big data mining research area? More specifically, the hot research topics/keywords that were discussed in the conference proceedings. Man, wouldn’t it be better if I can see the hot research topics and keywords? Worry no more, this is where word cloud can help you capture the info within seconds.
 
 ![](https://blogassetswenhao.s3-us-west-1.amazonaws.com/wordclod/wordcloud.png)
 
@@ -43,4 +43,6 @@ with open("bigdata.txt") as file:
 	plt.show()
 ```
 
-The sample input file can be seen [here](https://blogassetswenhao.s3-us-west-1.amazonaws.com/wordclod/bigdata.txt). These are the accepted regular paper and short papers in IEEE BigData 2019 conference. Each line is a individual paper work. Author names and titles are separated by ``,".
+The sample input file can be seen [here](https://blogassetswenhao.s3-us-west-1.amazonaws.com/wordclod/bigdata.txt). These are the accepted regular paper and short papers in the IEEE BigData 2019 conference. Each line is an individual paper. Note that author names and titles are separated by a comma. You can prepare your own input file by scraping the internet~
+
+You can also see this blog on [Medium](https://medium.com/@wenhaoz.fengcai/wordcloud-visualization-of-acedemic-conference-topics-36e6dc6711aa)
