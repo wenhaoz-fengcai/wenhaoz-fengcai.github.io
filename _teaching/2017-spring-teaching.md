@@ -1,5 +1,5 @@
 ---
-title: "TA: EE532 at UCLA, Spring, 2017"
+title: "TA: EE532 at USC, Spring, 2017"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/2017-spring-ee542

@@ -1,5 +1,5 @@
 ---
-title: "TA: EE542 at UCLA, Summer, 2017"
+title: "TA: EE542 at USC, Summer, 2017"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/2017-summer-ee542
