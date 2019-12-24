@@ -3,8 +3,8 @@ layout: simple
 title:  "2019-2020 International Conferences in Artificial Intelligence, Data Mining and Health Care"
 date:   2018-05-29 13:17:00 -0000
 post_author: Wenhao Zhang
-categories: Paper Deadlines
-tags: [Paper_Deadlines, Conferences]
+categories: Conferences
+tags: [Conferences]
 published: true
 ---
 <script src='//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
