@@ -22,6 +22,10 @@ Education
 
 Work experience
 ======
+* Summer 2020: Research Intern @ Yahoo Research Center
+  * Researched the cold-start recommendation issue in a dynamic online environment using counterfactual reasoning and contextual multi-armed bandit.
+  * Implement the Causal Thompson Sampling algorithm.
+
 * Summer 2019: Research Intern @ Alibaba Group
   * Identified the selection bias and data sparsity issues in conventional conversion rate (CVR) estimation
   * Proposed two theoretically unbiased CVR estimators, i.e., Multi-IPW, and Multi-DR, which solves these issues from a causal perspective.

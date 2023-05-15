@@ -18,8 +18,8 @@ News
 * [12/2022] One journal [paper](hhttps://www.nature.com/articles/s41598-022-25472-z) accepted by Scientific Reports.
   - title: "Temporal convolutional networks and data rebalancing for clinical length of stay and mortality prediction".
 * [9/2022] One conference [paper](https://ieeexplore.ieee.org/abstract/document/9928500/) accepted at the conference [The 17th IEEE-EMBS International Conference on Wearable and Implantable Body Sensor Networks](https://www.ll.mit.edu/conferences-events/2023/10/ieee-intl-conference-wearable-and-implantable-body-sensor-networks-bsn).
-  - title: "Range of Motion Sensors for Monitoring Recovery of Total Knee Arthroplasty". **Best paper honorable mention**
-* [7/2022] One conference [paper](https://arxiv.org/pdf/2206.14200) accepted at the conference [The 4th International Conference on Computing and Data Science](https://www.wellingtonsquarebooks.com/book/9789811245145). **Best paper award**
+  - title: "Range of Motion Sensors for Monitoring Recovery of Total Knee Arthroplasty". <span style="color:red">*Best paper honorable mention*</span>.
+* [7/2022] One conference [paper](https://arxiv.org/pdf/2206.14200) accepted at the conference [The 4th International Conference on Computing and Data Science](https://www.wellingtonsquarebooks.com/book/9789811245145). <span style="color:red">*Best paper award*</span>.
   - title: "ECG Heartbeat classification using deep transfer learning with Convolutional Neural Network and STFT technique"
 * [6/2022] One [chapter](https://arxiv.org/pdf/2105.04655) accepted in the book [Handbook on Computer Learning and Intelligence](https://www.wellingtonsquarebooks.com/book/9789811245145).
    - title: "Causal Inference in medicine and in health policy, a summary"
