@@ -2,7 +2,7 @@
 title: "Causal Inference in Medicine and in Health Policy: A Summary"
 collection: publications
 permalink: /publication/causalbookchapter
-date: 2022
+date: 2022-06-15
 venue: 'HANDBOOK ON COMPUTER LEARNING AND INTELLIGENCE: Volume 2: Deep Learning, Intelligent Control and Evolutionary Computation (page 263-302)'
 paperurl: 'https://arxiv.org/pdf/2105.04655'
 ---
