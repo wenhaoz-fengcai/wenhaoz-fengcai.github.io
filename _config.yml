@@ -83,10 +83,10 @@ author:
   name             : "Wenhao Zhang 张文豪"
   avatar           : "profile.png"
   bio              : "Ph.D of Computer Science at University of California, Los Angeles (UCLA)."
-  location         : "EVI, Room 540 @ UCLA"
-  employer         :
+  location         : "Cedars-Sinai Medical Center"
+  employer         : 
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=vdEdKloAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=BE7vPzEAAAAJ&hl=en"
   email            : "wenhaoz@ucla.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -99,17 +99,17 @@ author:
   github           : "wenhaoz-fengcai"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "wenhao.daniel.zhang"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "wenhaozatusc/"
+  linkedin         : "wenhaozhangcsmc/"
   orcid            : "https://orcid.org/0000-0001-6053-6454"
   pinterest        :
   soundcloud       :
   stackoverflow    : "9871749/wenhao-zhang"
   steam            :
   tumblr           :
-  twitter          : "WenhaoZ95663233"
+  twitter          : ""
   vine             :
   weibo            :
   xing             :
