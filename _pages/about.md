@@ -13,7 +13,9 @@ I completed my doctoral degree in Computer Science from the University of Califo
 Before joining UCLA, I pursued two Master of Science degrees, one in Computer Science and another in Electrical Engineering, at the University of Southern California (USC). During my time at USC, I collaborated with Prof. Kai Hwang (whose information can be found at https://sse.cuhk.edu.cn/en/content/8523), who currently holds the position of Presidential Chair Professor in Computer Science and Engineering at the Chinese University of Hong Kong (CUHK), Shenzhen, China. Additionally, Prof. Hwang serves as the Chief Scientist at the Cloud Computing Center, Chinese Academy of Sciences. My research at USC primarily focused on cloud computing and IoTs.
 
 News
-======
+=====
+* [09/2024] Barry L. Zaret Young Investigator Award @ ASNC 2024 for the work [Automating Revascularization Decision Support: Clinical Application of Artificial Intelligence](https://www.journalofnuclearcardiology.org/article/S1071-3581(24)00677-9/fulltext).
+* [11/2023] Started as a postdoctoral scientist at [Slomka's lab](https://www.cedars-sinai.edu/health-sciences-university/research/labs/slomka.html) at Cedars-Sinai Medical Center.
 * [5/2023] Passed my final defense exam!
 * [12/2022] One journal [paper](hhttps://www.nature.com/articles/s41598-022-25472-z) accepted by Scientific Reports.
   - title: "Temporal convolutional networks and data rebalancing for clinical length of stay and mortality prediction".
