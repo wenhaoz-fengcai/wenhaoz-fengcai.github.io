@@ -14,6 +14,7 @@ Before joining UCLA, I pursued two Master of Science degrees, one in Computer Sc
 
 News
 =====
+* [02/2025] Joining the School of Sensing Science and Engineering at [Shanghai Jiaotong University (QS world ranking: 45th)](https://ssse.sjtu.edu.cn/) as an Assistant Professor in May 2025.
 * [09/2024] <span style="color:red">Barry L. Zaret Young Investigator Award</span> @ ASNC 2024 for the work [Automating Revascularization Decision Support: Clinical Application of Artificial Intelligence](https://www.journalofnuclearcardiology.org/article/S1071-3581(24)00677-9/fulltext).
 * [11/2023] Started as a postdoctoral scientist at [Slomka's lab](https://www.cedars-sinai.edu/health-sciences-university/research/labs/slomka.html) at Cedars-Sinai Medical Center.
 * [5/2023] Passed my final defense exam!
